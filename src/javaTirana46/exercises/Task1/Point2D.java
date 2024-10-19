@@ -1,10 +1,10 @@
-package javaTirana46.exercises;
+package javaTirana46.exercises.Task1;
 
 public class Point2D {
-    private float x;
-    private float y;
+    protected float x;
+    protected float y;
     public Point2D(){}
-    public Point2D(float x,float y){
+    public Point2D(float x, float y){
         this.x=x;
         this.y=y;
     }
