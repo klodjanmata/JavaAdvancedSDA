@@ -1,0 +1,20 @@
+old.exercises.Student{id=1, name='Qazim'	, surname='Mulleti'		, subject='Shkenca Komunikimi'	, age=25		, gender=M		, yearOfStart=2022		, yearOfStudying=3		}
+old.exercises.Student{id=2, name='Alban'	, surname='Hoxha'		, subject='Sporte'	, age=24		, gender=M		, yearOfStart=2021		, yearOfStudying=3		}
+old.exercises.Student{id=3, name='Albana'	, surname='Gorishti'		, subject='Informatike'	, age=22		, gender=F		, yearOfStart=2020		, yearOfStudying=4		}
+old.exercises.Student{id=4, name='Enxhia'	, surname='Sala'		, subject='Informatike Ekonomike'	, age=24		, gender=F		, yearOfStart=2021		, yearOfStudying=3		}
+old.exercises.Student{id=5, name='John'	, surname='Doe'		, subject='old.exercises.Computer Science'	, age=23		, gender=M		, yearOfStart=2021		, yearOfStudying=4		}
+old.exercises.Student{id=6, name='Jane'	, surname='Smith'		, subject='Psychology'	, age=22		, gender=F		, yearOfStart=2020		, yearOfStudying=3		}
+old.exercises.Student{id=7, name='Michael'	, surname='Jordan'		, subject='Basketball'	, age=58		, gender=M		, yearOfStart=1979		, yearOfStudying=10		}
+old.exercises.Student{id=8, name='Serena'	, surname='Williams'		, subject='Tennis'	, age=40		, gender=F		, yearOfStart=1998		, yearOfStudying=8		}
+old.exercises.Student{id=9, name='Elon'	, surname='Musk'		, subject='Space Exploration'	, age=50		, gender=M		, yearOfStart=1995		, yearOfStudying=7		}
+old.exercises.Student{id=10, name='Ada'	, surname='Lovelace'		, subject='old.exercises.Computer Science'	, age=36		, gender=F		, yearOfStart=1832		, yearOfStudying=1		}
+old.exercises.Student{id=11, name='Nikola'	, surname='Tesla'		, subject='Electrical Engineering'	, age=86		, gender=M		, yearOfStart=1884		, yearOfStudying=1		}
+old.exercises.Student{id=12, name='Marie'	, surname='Curie'		, subject='Physics'	, age=66		, gender=F		, yearOfStart=1893		, yearOfStudying=1		}
+old.exercises.Student{id=13, name='Alan'	, surname='Turing'		, subject='old.exercises.Computer Science'	, age=41		, gender=M		, yearOfStart=1936		, yearOfStudying=1		}
+old.exercises.Student{id=14, name='Rosalind'	, surname='Franklin'		, subject='Chemistry'	, age=37		, gender=F		, yearOfStart=1942		, yearOfStudying=1		}
+old.exercises.Student{id=15, name='Martin'	, surname='Luther King Jr.'		, subject='Social Justice'	, age=39		, gender=M		, yearOfStart=1955		, yearOfStudying=1		}
+old.exercises.Student{id=16, name='Malala'	, surname='Yousafzai'		, subject='Education Activism'	, age=24		, gender=F		, yearOfStart=2012		, yearOfStudying=1		}
+old.exercises.Student{id=17, name='Steve'	, surname='Jobs'		, subject='Entrepreneurship'	, age=56		, gender=M		, yearOfStart=1976		, yearOfStudying=1		}
+old.exercises.Student{id=18, name='Oprah'	, surname='Winfrey'		, subject='Media and Entertainment'	, age=68		, gender=F		, yearOfStart=1983		, yearOfStudying=1		}
+old.exercises.Student{id=19, name='Stephen'	, surname='Hawking'		, subject='Theoretical Physics'	, age=76		, gender=M		, yearOfStart=1962		, yearOfStudying=1		}
+old.exercises.Student{id=20, name='Greta'	, surname='Thunberg'		, subject='Environmental Activism'	, age=19		, gender=F		, yearOfStart=2018		, yearOfStudying=1		}

@@ -1,0 +1,17 @@
+
+n
+java:S1192"QDefine a constant instead of duplicating this literal "Computer Science" 3 times.(”Ñä¼8ıŞ¬ùÖ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ãô½á8şŞ¬ùÖ1
+£
+java:S11868"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ßø„İùÿÿÿÿ8€ß¬ùÖ1
+Z
+java:S1854A"8Remove this useless assignment to local variable "path".(€«ìÀùÿÿÿÿ8„ß¬ùÖ1
+‰
+java:S1130<"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8…ß¬ùÖ1
+]	java:S125@"<This block of commented-out lines of code should be removed.(Àü¾±ÿÿÿÿÿ8†ß¬ùÖ1
+K
+java:S1481A")Remove this unused "path" local variable.(€«ìÀùÿÿÿÿ8†ß¬ùÖ1
+]	java:S125F"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‡ß¬ùÖ1
+X	java:S125U"<This block of commented-out lines of code should be removed.(Ãı—8‡ß¬ùÖ1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8ÁşùÖ1

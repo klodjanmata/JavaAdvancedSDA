@@ -1,0 +1,7 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ºé»ùÿÿÿÿ8ıÕÏñÖ1
+N
+java:S1602",Remove useless curly braces around statement(¡«óÔıÿÿÿÿ8÷¢ÓñÖ1
+]
+java:S1612";Replace this lambda with method reference 'sum::addAndGet'.(¡«óÔıÿÿÿÿ8ø¢ÓñÖ1
+G	java:S106"+Replace this use of System.out by a logger.(ÃÂ¤¦8‡ÖÏñÖ1

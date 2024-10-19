@@ -1,0 +1,26 @@
+
+n
+java:S1192"QDefine a constant instead of duplicating this literal "Computer Science" 3 times.(”Ñä¼8şÑ¹´Ò1
+‹
+java:S1319"nThe type of "listOfAllStudents" should be an interface such as "Map" rather than the implementation "HashMap".(™”ş×8şÑ¹´Ò1
+‚
+java:S13191"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(¡â§ıÿÿÿÿ8şÑ¹´Ò1
+}
+java:S13198"`The type of "map" should be an interface such as "Map" rather than the implementation "HashMap".(«–ŒŸ8şÑ¹´Ò1
+7
+java:S1220""Move this file to a named package.8ÿÑ¹´Ò1
+G	java:S1062"+Replace this use of System.out by a logger.(ô»æØ8‹Ò¹´Ò1
+G	java:S1064"+Replace this use of System.out by a logger.(ğ˜¾8‹Ò¹´Ò1
+G	java:S1069"+Replace this use of System.out by a logger.(ô»æØ8ŒÒ¹´Ò1
+L	java:S106;"+Replace this use of System.out by a logger.(ÔœÃùÿÿÿÿ8ŒÒ¹´Ò1
+W
+java:S1854S"5Remove this useless assignment to local variable "s".(Äˆõóúÿÿÿÿ8Ò¹´Ò1
+_
+java:S1854H"=Remove this useless assignment to local variable "clonedMap".(¬‘Ã§üÿÿÿÿ8Ò¹´Ò1
+X	java:S125B"<This block of commented-out lines of code should be removed.(ØÌçÙ8Ò¹´Ò1
+L	java:S106D"+Replace this use of System.out by a logger.(§Æöşÿÿÿÿ8Ò¹´Ò1
+X	java:S125G"<This block of commented-out lines of code should be removed.(«ŒéÊ8Ò¹´Ò1
+G	java:S106O"+Replace this use of System.out by a logger.(°¨ãĞ8Ò¹´Ò1
+L	java:S106W"+Replace this use of System.out by a logger.(·‰èûÿÿÿÿ8Ò¹´Ò1
+]	java:S125\"<This block of commented-out lines of code should be removed.(»¤¨£úÿÿÿÿ8Ò¹´Ò1
+G	java:S106r"+Replace this use of System.out by a logger.(ÿÑğ8Ò¹´Ò1

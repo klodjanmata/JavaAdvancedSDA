@@ -1,0 +1,28 @@
+
+c
+java:S1192$"FDefine a constant instead of duplicating this literal "White" 3 times.(Ìıï8²ˆô±Ò1
+i
+java:S1192,"GDefine a constant instead of duplicating this literal "Purple" 3 times.(Ø¦î¯şÿÿÿÿ8²ˆô±Ò1
+‰
+java:S1319"gThe type of "example" should be an interface such as "List" rather than the implementation "ArrayList".(ÈáòÏùÿÿÿÿ8³ˆô±Ò1
+
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "clone".(š×áªüÿÿÿÿ8³ˆô±Ò1
+7
+java:S1220""Move this file to a named package.8³ˆô±Ò1
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÈáòÏùÿÿÿÿ8Éˆô±Ò1
+L	java:S106"+Replace this use of System.out by a logger.(‡ü «ıÿÿÿÿ8Ëˆô±Ò1
+L	java:S106"+Replace this use of System.out by a logger.(¬ĞË‹ùÿÿÿÿ8Ëˆô±Ò1
+L	java:S106"+Replace this use of System.out by a logger.(‡ü «ıÿÿÿÿ8Ìˆô±Ò1
+G	java:S106"+Replace this use of System.out by a logger.(ŸÏÍè8Òˆô±Ò1
+G	java:S106)"+Replace this use of System.out by a logger.(¡Öìâ8Òˆô±Ò1
+L	java:S106/"+Replace this use of System.out by a logger.(²¸¼”ùÿÿÿÿ8Òˆô±Ò1
+G	java:S1060"+Replace this use of System.out by a logger.(îŞÄø8Ôˆô±Ò1
+]	java:S125A"<This block of commented-out lines of code should be removed.(Á›Îøÿÿÿÿ8Óˆô±Ò1
+G	java:S106S"+Replace this use of System.out by a logger.(Î¡øÑ8Õˆô±Ò1
+G	java:S106["+Replace this use of System.out by a logger.(ëŞ‘8Õˆô±Ò1
+L	java:S106_"+Replace this use of System.out by a logger.( ‡åğûÿÿÿÿ8Õˆô±Ò1
+X	java:S125d"<This block of commented-out lines of code should be removed.(èô†Î8Õˆô±Ò1
+X	java:S125i"<This block of commented-out lines of code should be removed.(‰ãáÑ8Ğ„ö±Ò1
+L	java:S106k"+Replace this use of System.out by a logger.(ùçïşÿÿÿÿ8â…õ±Ò1
+G	java:S106o"+Replace this use of System.out by a logger.(çÍÆ•8ªØ÷±Ò1

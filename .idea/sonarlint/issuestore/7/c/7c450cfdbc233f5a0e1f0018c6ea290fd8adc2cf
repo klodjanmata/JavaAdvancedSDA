@@ -1,0 +1,10 @@
+
+…
+java:S1488"cImmediately throw this expression instead of assigning it to the temporary variable "ourException".(µªΤωÿÿÿÿ8ÿ·Ò1
+7
+java:S1220""Move this file to a named package.8ÿ·Ò1
+X	java:S125"<This block of commented-out lines of code should be removed.(†€ι8΅ÿ·Ò1
+L	java:S106"+Replace this use of System.out by a logger.(Τ„ώÿÿÿÿ8Άÿ·Ò1
+L	java:S106"+Replace this use of System.out by a logger.(Βμϊÿÿÿÿ8Άÿ·Ò1
+L	java:S106&"+Replace this use of System.out by a logger.(§δΐπόÿÿÿÿ8ζ»€ΈÒ1
+]	java:S125"<This block of commented-out lines of code should be removed.(ρ¥ωψÿÿÿÿ8Άÿ·Ò1
