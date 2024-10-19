@@ -1,4 +1,5 @@
 package javaTirana46.Inheritance;
 
-public interface move {
+public interface Move {
+    public void move();
 }
