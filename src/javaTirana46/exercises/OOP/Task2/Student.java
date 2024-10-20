@@ -1,4 +1,4 @@
-package javaTirana46.exercises.Task2;
+package javaTirana46.exercises.OOP.Task2;
 
 public class Student extends Person {
     private String typeOfStudy;

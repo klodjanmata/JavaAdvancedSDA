@@ -1,4 +1,4 @@
-package javaTirana46.exercises.Task2;
+package javaTirana46.exercises.OOP.Task2;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package javaTirana46.exercises.Task1;
+package javaTirana46.exercises.OOP.Task1;
 
 public class Point2D {
     protected float x;
