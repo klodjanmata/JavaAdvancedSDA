@@ -1,8 +1,13 @@
 package javaTirana46;
 
 public class Test {
+    private String name;
 
-    private class Name{
-        String name;
+    public Test(String name) {
+        this.name = name;
+    }
+
+    public Test(){
+
     }
 }
